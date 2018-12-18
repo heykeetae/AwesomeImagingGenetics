@@ -13,12 +13,12 @@ The figure above illustrates the intuition of Imaging Genetics. We would like to
 * [ ] Major datasets
 
 ## Paper list
-- The (soon-to-be) comprehensive paper list is attributable to the following papers.
-Lee et al., [Radiomics and imaging genomics in precision medicine](https://www.pfmjournal.org/journal/view.php?number=9), *Precision and Future Medicine*
+- This paper list is partially attributable to the following paper.
+  * Lee et al., [Radiomics and imaging genomics in precision medicine](https://www.pfmjournal.org/journal/view.php?number=9), *Precision and Future Medicine*, 2017
 
 * Imageing Genomics (Radiogenomics, Imaging Genetics)
-  * [Radiogenomic evaluation of lung cancer: are there imaging characteristics associated with lung adenocarcinomas harboring BRAF mutations?](https://www.ncbi.nlm.nih.gov/pubmed/28012356), 2017
-  * Item 2b
+  * [Radiogenomic evaluation of lung cancer: are there imaging characteristics associated with lung adenocarcinomas harboring BRAF mutations?](https://www.ncbi.nlm.nih.gov/pubmed/28012356), *Clinical Imaging*, 2017
+  * 
 
 ## Datasets
 Datasets are perhaps the pre-requisites for any research studies in this area, where we need 1)large-scale imaging data, 2) paired with genotypic information. Here we review some rich publicly available datasets.
