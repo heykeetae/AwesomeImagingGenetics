@@ -24,8 +24,8 @@ and promises](https://www.ncbi.nlm.nih.gov/pubmed/26864054), *The British Journa
   * Wiestler et al., [Multiparametric MRI-based differentiation of WHO grade II/III glioma and WHO grade IV glioblastoma](https://www.ncbi.nlm.nih.gov/pubmed/27739434), *Scientific Reports*, 2016
   * Kickingereder et al., [Radiogenomics of glioblastoma: machine learning-based classification of molecular characteristics by using multiparametric and multiregional MR imaging features](https://pubs.rsna.org/doi/10.1148/radiol.2016161382), *Radiology*, 2016
   * Heiland et al., [Molecular differences between cerebral blood volume and vessel size in glioblastoma multiforme. Oncotarget.](), *Oncotarget*, 2016
-  *  et al., [](), **, 201
-  *  et al., [](), **, 20
+  * Hu et al., [Radiogenomics to characterize regional genetic heterogeneity in glioblastoma](https://www.ncbi.nlm.nih.gov/pubmed/27502248), *Neuro-Oncology*, 201
+  * Saha et al., [Interobserver variability in identification of breast tumors in MRI and its implications for prognostic biomarkers and radiogenomics.](https://www.ncbi.nlm.nih.gov/pubmed/27487872), *Medical Physics*, 2016
   *  et al., [](), **, 20
   *  et al., [](), **, 20
   *  et al., [](), **, 20
