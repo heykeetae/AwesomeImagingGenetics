@@ -13,13 +13,31 @@ The figure above illustrates the intuition of Imaging Genetics. We would like to
 * [ ] Major datasets
 
 ## Paper list
-- This paper list is partially attributable to the following paper.
+- This paper list is partially attributable to the following papers.
   * Lee et al., [Radiomics and imaging genomics in precision medicine](https://www.pfmjournal.org/journal/view.php?number=9), *Precision and Future Medicine*, 2017
+  * Bai et al., [Imaging genomics in cancer research: limitations
+and promises](https://www.ncbi.nlm.nih.gov/pubmed/26864054), *The British Journal of Radiology*, 2016
 
 * Imageing Genomics (Radiogenomics, Imaging Genetics)
   * Halpenny et al., [Radiogenomic evaluation of lung cancer: are there imaging characteristics associated with lung adenocarcinomas harboring BRAF mutations?](https://www.ncbi.nlm.nih.gov/pubmed/28012356), *Clinical Imaging*, 2017
   * Demerath et al., [Mesoscopic imaging of glioblastomas: Are diffusion, perfusion and spectroscopic measures influenced by the radiogenetic phenotype?](https://www.ncbi.nlm.nih.gov/pubmed/27864578), *The Neuroradiology Journal*, 2016
-  * et al., [](), **, 20
+  * Wiestler et al., [Multiparametric MRI-based differentiation of WHO grade II/III glioma and WHO grade IV glioblastoma](https://www.ncbi.nlm.nih.gov/pubmed/27739434), *Scientific Reports*, 2016
+  * Kickingereder et al., [Radiogenomics of glioblastoma: machine learning-based classification of molecular characteristics by using multiparametric and multiregional MR imaging features](https://pubs.rsna.org/doi/10.1148/radiol.2016161382), *Radiology*, 2016
+  * Heiland et al., [Molecular differences between cerebral blood volume and vessel size in glioblastoma multiforme. Oncotarget.](), *Oncotarget*, 2016
+  *  et al., [](), **, 201
+  *  et al., [](), **, 20
+  *  et al., [](), **, 20
+  *  et al., [](), **, 20
+  *  et al., [](), **, 20
+  *  et al., [](), **, 20
+  *  et al., [](), **, 20
+  *  et al., [](), **, 20
+  *  et al., [](), **, 20
+  *  et al., [](), **, 20
+  *  et al., [](), **, 20
+  *  et al., [](), **, 20
+  *  et al., [](), **, 20
+  
 
 ## Datasets
 Datasets are perhaps the pre-requisites for any research studies in this area, where we need 1)large-scale imaging data, 2) paired with genotypic information. Here we review some rich publicly available datasets.
