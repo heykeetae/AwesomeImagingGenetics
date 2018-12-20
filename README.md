@@ -37,7 +37,18 @@ and promises](https://www.ncbi.nlm.nih.gov/pubmed/26864054), *The British Journa
   * Gutman et al., [Somatic mutations associated with MRI-derived volumetric features in glioblastoma](https://www.ncbi.nlm.nih.gov/pubmed/26337765), *Neuroradiology*, 2015
   * Renard-Penna et al., [Multiparametric magnetic resonance imaging predicts postoperative pathology but misses aggressive prostate cancers as assessed by cell cycle progression score](https://www.ncbi.nlm.nih.gov/pubmed/26272031), *Journal of Urology*, 2015
   * Shinagare et al., [Radiogenomics of clear cell renal cell carcinoma: preliminary findings of The Cancer Genome Atlas-Renal Cell Carcinoma (TCGA-RCC) Imaging Research Group](https://www.ncbi.nlm.nih.gov/pubmed/25753955), *Abdominal Radiology*, 2015
-  
+  * Wang et al., [Anatomical localization of isocitrate dehydrogenase 1 mutation: a voxel-based radiographic study of 146 low-grade gliomas](https://www.ncbi.nlm.nih.gov/pubmed/25318355),**, 2015
+  * Halpenny et al., [Are there imaging characteristics associated with lung adenocarcinomas harboring ALK rearrangements?](https://www.ncbi.nlm.nih.gov/pubmed/25312988),*Lung Cancer*, 2014
+  * Gevaert et al., [Glioblastoma multiforme: exploratory radiogenomic analysis by using quantitative image features](https://www.ncbi.nlm.nih.gov/pubmed/24827998),*Radiology*, 2014
+  * Nair et al., [NF- kappaB protein expression associates with (18)F-FDG PET tumor uptake in non-small cell lung cancer: a radiogenomics validation study to understand tumor metabolism](https://www.ncbi.nlm.nih.gov/pubmed/24355259),*Lung Cancer*, 2014
+  * Jamshidi et al., [Illuminating radiogenomic characteristics of glioblastoma multiforme through integration of MR imaging, messenger RNA expression, and DNA copy number variation](https://www.ncbi.nlm.nih.gov/pubmed/24056404),*Radiology*, 2014
+  * Karlo et al., [Radiogenomics of clear cell renal cell carcinoma: associations between CT imaging features and mutations](https://www.ncbi.nlm.nih.gov/pubmed/24029645),*Radiology*, 2014
+  * De Ruysscher et al., [Quantification of radiation-induced lung damage with CT scans: the possible benefit for radiogenomics](https://www.ncbi.nlm.nih.gov/pubmed/23957564),*Acta Oncologica*, 2013
+  * Zinn et al., [Radiogenomic mapping of edema/cellular invasion MRI-phenotypes in glioblastoma multiforme](https://www.ncbi.nlm.nih.gov/pubmed/21998659),*PLoS One*, 2011
+  * Gevaert et al., [Non-small cell lung cancer: identifying prognostic imaging biomarkers by leveraging public gene expression microarray data: methods and preliminary results](https://www.ncbi.nlm.nih.gov/pubmed/22723499),*Radiology*, 2012
+  * Aerts et al., [Decoding tumour phenotype by noninvasive imaging using a quantitative radiomics approach](https://www.nature.com/articles/ncomms5006),*Nature Communications*, 2014
+  *  et al., [](),**, 20
+  *  et al., [](),**, 20
 
 ## Datasets
 Datasets are perhaps the pre-requisites for any research studies in this area, where we need 1)large-scale imaging data, 2) paired with genotypic information. Here we review some rich publicly available datasets.
