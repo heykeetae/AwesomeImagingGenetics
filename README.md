@@ -23,20 +23,20 @@ and promises](https://www.ncbi.nlm.nih.gov/pubmed/26864054), *The British Journa
   * Demerath et al., [Mesoscopic imaging of glioblastomas: Are diffusion, perfusion and spectroscopic measures influenced by the radiogenetic phenotype?](https://www.ncbi.nlm.nih.gov/pubmed/27864578), *The Neuroradiology Journal*, 2016
   * Wiestler et al., [Multiparametric MRI-based differentiation of WHO grade II/III glioma and WHO grade IV glioblastoma](https://www.ncbi.nlm.nih.gov/pubmed/27739434), *Scientific Reports*, 2016
   * Kickingereder et al., [Radiogenomics of glioblastoma: machine learning-based classification of molecular characteristics by using multiparametric and multiregional MR imaging features](https://pubs.rsna.org/doi/10.1148/radiol.2016161382), *Radiology*, 2016
-  * Heiland et al., [Molecular differences between cerebral blood volume and vessel size in glioblastoma multiforme. Oncotarget.](), *Oncotarget*, 2016
+  * Heiland et al., [Molecular differences between cerebral blood volume and vessel size in glioblastoma multiforme](https://www.ncbi.nlm.nih.gov/pubmed/27613830), *Oncotarget*, 2016
   * Hu et al., [Radiogenomics to characterize regional genetic heterogeneity in glioblastoma](https://www.ncbi.nlm.nih.gov/pubmed/27502248), *Neuro-Oncology*, 201
-  * Saha et al., [Interobserver variability in identification of breast tumors in MRI and its implications for prognostic biomarkers and radiogenomics.](https://www.ncbi.nlm.nih.gov/pubmed/27487872), *Medical Physics*, 2016
-  *  et al., [](), **, 20
-  *  et al., [](), **, 20
-  *  et al., [](), **, 20
-  *  et al., [](), **, 20
-  *  et al., [](), **, 20
-  *  et al., [](), **, 20
-  *  et al., [](), **, 20
-  *  et al., [](), **, 20
-  *  et al., [](), **, 20
-  *  et al., [](), **, 20
-  *  et al., [](), **, 20
+  * Saha et al., [Interobserver variability in identification of breast tumors in MRI and its implications for prognostic biomarkers and radiogenomics](https://www.ncbi.nlm.nih.gov/pubmed/27487872), *Medical Physics*, 2016
+  * Mehta et al., [Radiogenomics monitoring in breast cancer identifies metabolism and immune checkpoints as early actionable mechanisms of resistance to anti-angiogenic treatment](https://www.ncbi.nlm.nih.gov/pubmed/27474395), *EBioMedicine*, 2016
+  * Stoyanova et al., [Association of multiparametric MRI quantitative imaging features with prostate cancer gene expression in MRI-targeted prostate biopsies](https://www.ncbi.nlm.nih.gov/pubmed/27438142), *Oncotarget*, 2016
+  * Zhao et al., [Reproducibility of radiomics for deciphering tumor phenotype with imaging](https://www.ncbi.nlm.nih.gov/pubmed/27009765), *Scientific Reports*, 2016
+  * McCann et al., [Quantitative multiparametric MRI features and PTEN expression of peripheral zone prostate cancer: a pilot study](https://www.ncbi.nlm.nih.gov/pubmed/27009765), *American Journal of Roentgenology*, 2016
+  * Guo et al., [Prediction of clinical phenotypes in invasive breast carcinomas from the integration of radiomics and genomics data](https://www.ncbi.nlm.nih.gov/pubmed/26835491), *Journal of Medical Imaging*, 2016
+  * Zhu et al., [Deciphering genomic underpinnings of quantitative MRI-based radiomic phenotypes of invasive breast carcinoma](https://www.nature.com/articles/srep17787), *Scientific Reports*, 2015
+  * Kickingereder et al., [IDH mutation status is associated with a distinct hypoxia/angiogenesis transcriptome signature which is non-invasively predictable with rCBV imaging in human glioma](https://www.ncbi.nlm.nih.gov/pubmed/26538165), *Scientific Reports*, 2015
+  * Rao et al., [A combinatorial radiographic phenotype may stratify patient survival and be associated with invasion and proliferation characteristics in glioblastoma](https://www.ncbi.nlm.nih.gov/pubmed/26473782), *Journal of Neurosurgery*, 2016
+  * Gutman et al., [Somatic mutations associated with MRI-derived volumetric features in glioblastoma](https://www.ncbi.nlm.nih.gov/pubmed/26337765), *Neuroradiology*, 2015
+  * Renard-Penna et al., [Multiparametric magnetic resonance imaging predicts postoperative pathology but misses aggressive prostate cancers as assessed by cell cycle progression score](https://www.ncbi.nlm.nih.gov/pubmed/26272031), *Journal of Urology*, 2015
+  * Shinagare et al., [Radiogenomics of clear cell renal cell carcinoma: preliminary findings of The Cancer Genome Atlas-Renal Cell Carcinoma (TCGA-RCC) Imaging Research Group](https://www.ncbi.nlm.nih.gov/pubmed/25753955), *Abdominal Radiology*, 2015
   
 
 ## Datasets
