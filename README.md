@@ -68,10 +68,7 @@ and promises](https://www.ncbi.nlm.nih.gov/pubmed/26864054), *The British Journa
   * Palaskas et al., [18F-fluorodeoxy-glucose positron emission tomography marks MYC-overexpressing human basal-like breast cancers](), *Cancer Research*, 2011
   * Zhu et al., [Brain metastasis in children with stage 4 neuroblastoma after multidisciplinary treatment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4593360/), *Chinese Journal of Cancer*, 2015
   * Miura et al., [Distinct clinicopathological phenotype of hepatocellular carcinoma with ethoxybenzylmagnetic resonance imaging hyperintensity: association with gene expression signature](https://www.ncbi.nlm.nih.gov/pubmed/26105803), *The American Journal of Surgery*, 2015
-  * Halle et al., [Hypoxiainduced gene expression in chemoradioresistant cervical cancer revealed by dynamic contrast-enhanced MRI](https://www.ncbi.nlm.nih.gov/pubmed/22890239), *Cancer Research*, 2012
-<!---
-from here may be classified as semi-radiogenomic approach
--->
+  * Halle et al., [Hypoxiainduced gene expression in chemoradioresistant cervical cancer revealed by dynamic contrast-enhanced MRI](https://www.ncbi.nlm.nih.gov/pubmed/22890239), *Cancer Research*, 2012<!---from here may be classified as semi-radiogenomic approach-->
   * Halpenny et al., [Are there imaging characteristics associated with lung adenocarcinomas harboring ALK rearrangements?](https://www.ncbi.nlm.nih.gov/pubmed/25312988), *Lung Cancer*, 2014
   * Mazurowski et al., [Radiogenomic analysis of breast cancer: luminal B molecular subtype is associated with enhancement dynamics at MR imaging](https://www.ncbi.nlm.nih.gov/pubmed/25028781), *Radiology*, 2014
   * Gutman et al., [MR imaging predictors of molecular profile and survival: multi-institutional study of the TCGA glioblastoma data set](), *Radiology*, 2013
@@ -97,13 +94,18 @@ from here may be classified as semi-radiogenomic approach
   * Kong et al., [Diagnostic dilemma of pseudoprogression in the treatment of newly diagnosed glioblastomas: the role of assessing relative cerebral blood flow volume and oxygen-6-methylguanine-DNA methyltransferase promoter methylation status](https://www.ncbi.nlm.nih.gov/pubmed/21252041), *American Journal of Neuroradiology*, 2011
   * Romano et al., [Apparent diffusion coefficient obtained by magnetic resonance imaging as a prognostic marker in glioblastomas: correlation with MGMT promoter methylation status](https://www.ncbi.nlm.nih.gov/pubmed/22875158), *European Radiology*, 2013
   * Sunwoo et al., [Correlation of apparent diffusion coefficient values measured by diffusion MRI and MGMT promoter methylation semiquantitatively analyzed with MS-MLPA in patients with glioblastoma multiforme](https://www.ncbi.nlm.nih.gov/pubmed/23023975), *Journal of Magnetic Resonance Imaging*, 2013
+  * Ahn et al., [Prediction of methylguanine methyltransferase promoter methylation in glioblastoma using dynamic contrast-enhanced magnetic resonance and diffusion tensor imaging](https://www.ncbi.nlm.nih.gov/pubmed/24949678), *Journal of Neurosurgery*, 2014
+  * Sutton et al., [Breast cancer subtype intertumor heterogeneity: MRI-based features predict results of a genomic assay](https://www.ncbi.nlm.nih.gov/pubmed/25850931), *Journal of Magnetic Resonance Imaging*, 2015
+  * Kitao et al., [Hepatocellular carcinoma: signal intensity at gadoxetic acid-enhanced MR Imaging--correlation with molecular transporters and histopathologic features](https://www.ncbi.nlm.nih.gov/pubmed/20663969), *Radiology*, 2010
+  * Lee et al., [Epidermal growth factor receptor mutation in lung adenocarcinomas: relationship with CT characteristics and histologic subtypes](https://www.ncbi.nlm.nih.gov/pubmed/23468578), *Radiology*, 2013
+  * Glynn et al., [Are There Imaging Characteristics Associated with Epidermal Growth Factor Receptor and KRAS Mutations in Patients with Adenocarcinoma of the Lung with Bronchioloalveolar Features?](https://www.jto.org/article/S1556-0864(15)32307-8/abstract), *Journal of Thoracic Oncology*, 2010
+  * Plodkowski et al., [From genotype to phenotype: Are there imaging characteristics associated with lung adenocarcinomas harboring RET and ROS1 rearrangements?](https://www.ncbi.nlm.nih.gov/pubmed/26424208), *Lung Cancer*, 2015
+  * Ozkan et al., [CT Gray-Level Texture Analysis as a Quantitative Imaging Biomarker of Epidermal Growth Factor Receptor Mutation Status in Adenocarcinoma of the Lung](https://www.ncbi.nlm.nih.gov/pubmed/26496549), *American Journal of Roentgenology*, 2015
+  * Yoon et al., [Decoding Tumor Phenotypes for ALK, ROS1, and RET Fusions in Lung Adenocarcinoma Using a Radiomics Approach](https://www.ncbi.nlm.nih.gov/pubmed/26469915), *Medicine (Baltimore)*, 2015
   *  et al., [](), **, 20
   *  et al., [](), **, 20
-  *  et al., [](), **, 20
-  *  et al., [](), **, 20
-  *  et al., [](), **, 20
-  *  et al., [](), **, 20
-  *  et al., [](), **, 20
+
+  
   
   
 
