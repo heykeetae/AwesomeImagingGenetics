@@ -116,7 +116,7 @@ selection and sparse Partial Least Squares](https://www.ncbi.nlm.nih.gov/pubmed/
   * Honghui et al., [A Hybrid Machine Learning Method for Fusing fMRI and Genetic Data: Combining both Improves Classification of Schizophrenia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2990459/), *Frontiers in Human Neuroscience*, 2010
   * Arnedo et al., [Uncovering the hidden risk architecture of the schizophrenias: confirmation in three independent genome-wide association studies](https://www.ncbi.nlm.nih.gov/pubmed/25219520), *The American journal of
 psychiatry*, 2015
-  *  et al., [](), **, 20
+  * Coudray et al., [Classification and mutation prediction from non–small cell lung cancer histopathology images using deep learning](https://www.nature.com/articles/s41591-018-0177-5), *Nature Medicine*, 2018
   *  et al., [](), **, 20
   *  et al., [](), **, 20
   *  et al., [](), **, 20
