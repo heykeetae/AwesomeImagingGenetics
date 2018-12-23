@@ -106,7 +106,7 @@ The figure above illustrates the intuition of Imaging Genetics. We would like to
   * Kickingereder et al., [Radiogenomics of glioblastoma: machine learning-based classification of molecular characteristics by using multiparametric and multiregional MR imaging features](https://pubs.rsna.org/doi/10.1148/radiol.2016161382), *Radiology*, 2016  
   * Macyszyn et al., [Imaging patterns predict patient survival and molecular subtype in glioblastoma via machine learning techniques](https://www.ncbi.nlm.nih.gov/pubmed/26188015), *Neuro-Oncology*, 2015
   * Pearlson et al., [An introductory review of parallel independent component analysis (p-ICA) and a guide to applying p-ICA to genetic data and imaging phenotypes to identify disease-associated biological pathways and systems in common complex disorders](https://www.ncbi.nlm.nih.gov/pubmed/26442095), *Frontiers in genetics*, 2015
-  * Eric et al., [Imaging Genetics Via Sparse Canonical Correlation Analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3892670/), * IEEE International Symposium on Biomedical Imaging*, 2013
+  * Eric et al., [Imaging Genetics Via Sparse Canonical Correlation Analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3892670/), *IEEE International Symposium on Biomedical Imaging*, 2013
   * Le Floch et al., [ Significant correlation
 between a set of genetic polymorphisms and a functional brain network revealed by feature
 selection and sparse Partial Least Squares](https://www.ncbi.nlm.nih.gov/pubmed/22781162), *Neuroimage*, 2012
