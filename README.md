@@ -117,9 +117,8 @@ selection and sparse Partial Least Squares](https://www.ncbi.nlm.nih.gov/pubmed/
   * Arnedo et al., [Uncovering the hidden risk architecture of the schizophrenias: confirmation in three independent genome-wide association studies](https://www.ncbi.nlm.nih.gov/pubmed/25219520), *The American journal of
 psychiatry*, 2015
   * Coudray et al., [Classification and mutation prediction from non–small cell lung cancer histopathology images using deep learning](https://www.nature.com/articles/s41591-018-0177-5), *Nature Medicine*, 2018
-  *  et al., [](), **, 20
-  *  et al., [](), **, 20
-  *  et al., [](), **, 20
+  * Borkowski et al., [Apple Machine Learning Algorithms Successfully Detect Colon Cancer but Fail to Predict KRAS Mutation Status](https://arxiv.org/abs/1812.04660), *Arxiv Pre-print*, 2018
+  * Chidester et al., [Discriminative bag-of-cells for imaging-genomics](https://www.ncbi.nlm.nih.gov/pubmed/29218893), *Pacific Symposium on Biocomputing*, 2018
   *  et al., [](), **, 20
   *  et al., [](), **, 20
   *  et al., [](), **, 20
