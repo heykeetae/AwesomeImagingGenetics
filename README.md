@@ -69,6 +69,34 @@ and promises](https://www.ncbi.nlm.nih.gov/pubmed/26864054), *The British Journa
   * Zhu et al., [Brain metastasis in children with stage 4 neuroblastoma after multidisciplinary treatment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4593360/), *Chinese Journal of Cancer*, 2015
   * Miura et al., [Distinct clinicopathological phenotype of hepatocellular carcinoma with ethoxybenzylmagnetic resonance imaging hyperintensity: association with gene expression signature](https://www.ncbi.nlm.nih.gov/pubmed/26105803), *The American Journal of Surgery*, 2015
   * Halle et al., [Hypoxiainduced gene expression in chemoradioresistant cervical cancer revealed by dynamic contrast-enhanced MRI](https://www.ncbi.nlm.nih.gov/pubmed/22890239), *Cancer Research*, 2012
+<!---
+from here may be classified as semi-radiogenomic approach
+-->
+  * Halpenny et al., [Are there imaging characteristics associated with lung adenocarcinomas harboring ALK rearrangements?](https://www.ncbi.nlm.nih.gov/pubmed/25312988), *Lung Cancer*, 2014
+  * Mazurowski et al., [Radiogenomic analysis of breast cancer: luminal B molecular subtype is associated with enhancement dynamics at MR imaging](https://www.ncbi.nlm.nih.gov/pubmed/25028781), *Radiology*, 2014
+  * Gutman et al., [MR imaging predictors of molecular profile and survival: multi-institutional study of the TCGA glioblastoma data set](), *Radiology*, 2013
+  * Gutman et al., [Somatic mutations associated with MRI-derived volumetric features in glioblastoma](https://www.ncbi.nlm.nih.gov/pubmed/26337765), *Neuroradiology*, 2015
+  * Banerjee et al., [A computed tomography radiogenomic biomarker predicts microvascular invasion and clinical outcomes in hepatocellular carcinoma](https://www.ncbi.nlm.nih.gov/pubmed/25930992), *Hepatology*, 2015
+  * Carrillo et al., [Relationship between tumor enhancement, edema, IDH1 mutational status, MGMT promoter methylation, and survival in glioblastoma](https://www.ncbi.nlm.nih.gov/pubmed/22322613), *American Journal of Neuroradiology*, 2012
+  * Drabycz et al., [An analysis of image texture, tumor location, and MGMT promoter methylation in glioblastoma using magnetic resonance imaging](https://www.ncbi.nlm.nih.gov/pubmed/19796694), *Neuroimage*, 2009
+  * Moon et al., [Imaging parameters of high grade gliomas in relation to the MGMT promoter methylation status: the CT, diffusion tensor imaging, and perfusion MR imaging](https://www.ncbi.nlm.nih.gov/pubmed/21833736), *Neuroradiology*, 2011
+  * Aghi et al., [Magnetic resonance imaging characteristics predict epidermal growth factor receptor amplification status in glioblastoma](https://www.ncbi.nlm.nih.gov/pubmed/16361543), *Clinical Cancer Research*, 2005
+  * Ellingson et al., [Probabilistic radiographic atlas of glioblastoma phenotypes](https://www.ncbi.nlm.nih.gov/pubmed/22997168), *American Journal of Neuroradiology*, 2013
+  * Gupta et al., [Pretreatment Dynamic Susceptibility Contrast MRI Perfusion in Glioblastoma: Prediction of EGFR Gene Amplification](https://www.ncbi.nlm.nih.gov/pubmed/24474262), *Clinical Neuroradiology*, 2015
+  * Jain et al., [Genomic mapping and survival prediction in glioblastoma: molecular subclassification strengthened by hemodynamic imaging biomarkers](https://www.ncbi.nlm.nih.gov/pubmed/23238158), *Radiology*, 2013
+  * Lanic et al., [Interim positron emission tomography scan associated with international prognostic index and germinal center B cell-like signature as prognostic index in diffuse large B-cell lymphoma](https://www.ncbi.nlm.nih.gov/pubmed/21806349), *Leukemia & Lymphoma*, 2012
+  * Miles et al., [Multifunctional imaging signature for V-KI-RAS2 Kirsten rat sarcoma viral oncogene homolog (KRAS) mutations in colorectal cancer](https://www.ncbi.nlm.nih.gov/pubmed/24516257), *Journal of Nuclear Medicine*, 2014
+  * Ashraf et al., [Identification of intrinsic imaging phenotypes for breast cancer tumors: preliminary associations with gene expression profiles](https://www.ncbi.nlm.nih.gov/pubmed/24702725), *Radiology*, 2014
+  * Li et al., [Pilot study demonstrating potential association between breast cancer image-based risk phenotypes and genomic biomarkers](https://www.ncbi.nlm.nih.gov/pubmed/24593735), *Medical Physics*, 2014
+  * Macyszyn et al., [Imaging patterns predict patient survival and molecular subtype in glioblastoma via machine learning techniques](https://www.ncbi.nlm.nih.gov/pubmed/26188015), *Neuro-Oncology*, 2015
+  * Rizzo et al., [CT Radiogenomic Characterization of EGFR, K-RAS, and ALK Mutations in Non-Small Cell Lung Cancer](https://www.ncbi.nlm.nih.gov/pubmed/25956936), *European Radiology*, 2016
+  * Izuishi et al., [Molecular mechanism underlying the detection of colorectal cancer by 18F-2-fluoro-2-deoxy-D-glucose positron emission tomography](https://www.ncbi.nlm.nih.gov/pubmed/22065316), *Journal of Gastrointestinal Surgery*, 2012
+  * Lee et al., [Relationship Between 18F-Fluorodeoxyglucose Uptake and V-Ki-Ras2 Kirsten Rat Sarcoma Viral Oncogene Homolog Mutation in Colorectal Cancer Patients: Variability Depending on C-Reactive Protein Level](https://www.ncbi.nlm.nih.gov/pubmed/26735530), *Medicine (Baltimore)*, 2016
+  * Kawada et al., [Relationship between 18F-fluorodeoxyglucose accumulation and KRAS/BRAF mutations in colorectal cancer.](https://www.ncbi.nlm.nih.gov/pubmed/22282467), *Clinical Cancer Research*, 2012
+  * Tykocinski et al., [Use of magnetic perfusion-weighted imaging to determine epidermal growth factor receptor variant III expression in glioblastoma](https://www.ncbi.nlm.nih.gov/pubmed/22492960), *Neuro-Oncology*, 2012
+  * Kong et al., [Diagnostic dilemma of pseudoprogression in the treatment of newly diagnosed glioblastomas: the role of assessing relative cerebral blood flow volume and oxygen-6-methylguanine-DNA methyltransferase promoter methylation status](https://www.ncbi.nlm.nih.gov/pubmed/21252041), *American Journal of Neuroradiology*, 2011
+  * Romano et al., [Apparent diffusion coefficient obtained by magnetic resonance imaging as a prognostic marker in glioblastomas: correlation with MGMT promoter methylation status](https://www.ncbi.nlm.nih.gov/pubmed/22875158), *European Radiology*, 2013
+  * Sunwoo et al., [Correlation of apparent diffusion coefficient values measured by diffusion MRI and MGMT promoter methylation semiquantitatively analyzed with MS-MLPA in patients with glioblastoma multiforme](https://www.ncbi.nlm.nih.gov/pubmed/23023975), *Journal of Magnetic Resonance Imaging*, 2013
   *  et al., [](), **, 20
   *  et al., [](), **, 20
   *  et al., [](), **, 20
@@ -76,6 +104,7 @@ and promises](https://www.ncbi.nlm.nih.gov/pubmed/26864054), *The British Journa
   *  et al., [](), **, 20
   *  et al., [](), **, 20
   *  et al., [](), **, 20
+  
   
 
 ## Datasets
