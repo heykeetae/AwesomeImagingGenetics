@@ -37,18 +37,46 @@ and promises](https://www.ncbi.nlm.nih.gov/pubmed/26864054), *The British Journa
   * Gutman et al., [Somatic mutations associated with MRI-derived volumetric features in glioblastoma](https://www.ncbi.nlm.nih.gov/pubmed/26337765), *Neuroradiology*, 2015
   * Renard-Penna et al., [Multiparametric magnetic resonance imaging predicts postoperative pathology but misses aggressive prostate cancers as assessed by cell cycle progression score](https://www.ncbi.nlm.nih.gov/pubmed/26272031), *Journal of Urology*, 2015
   * Shinagare et al., [Radiogenomics of clear cell renal cell carcinoma: preliminary findings of The Cancer Genome Atlas-Renal Cell Carcinoma (TCGA-RCC) Imaging Research Group](https://www.ncbi.nlm.nih.gov/pubmed/25753955), *Abdominal Radiology*, 2015
-  * Wang et al., [Anatomical localization of isocitrate dehydrogenase 1 mutation: a voxel-based radiographic study of 146 low-grade gliomas](https://www.ncbi.nlm.nih.gov/pubmed/25318355),**, 2015
-  * Halpenny et al., [Are there imaging characteristics associated with lung adenocarcinomas harboring ALK rearrangements?](https://www.ncbi.nlm.nih.gov/pubmed/25312988),*Lung Cancer*, 2014
-  * Gevaert et al., [Glioblastoma multiforme: exploratory radiogenomic analysis by using quantitative image features](https://www.ncbi.nlm.nih.gov/pubmed/24827998),*Radiology*, 2014
-  * Nair et al., [NF- kappaB protein expression associates with (18)F-FDG PET tumor uptake in non-small cell lung cancer: a radiogenomics validation study to understand tumor metabolism](https://www.ncbi.nlm.nih.gov/pubmed/24355259),*Lung Cancer*, 2014
-  * Jamshidi et al., [Illuminating radiogenomic characteristics of glioblastoma multiforme through integration of MR imaging, messenger RNA expression, and DNA copy number variation](https://www.ncbi.nlm.nih.gov/pubmed/24056404),*Radiology*, 2014
-  * Karlo et al., [Radiogenomics of clear cell renal cell carcinoma: associations between CT imaging features and mutations](https://www.ncbi.nlm.nih.gov/pubmed/24029645),*Radiology*, 2014
-  * De Ruysscher et al., [Quantification of radiation-induced lung damage with CT scans: the possible benefit for radiogenomics](https://www.ncbi.nlm.nih.gov/pubmed/23957564),*Acta Oncologica*, 2013
-  * Zinn et al., [Radiogenomic mapping of edema/cellular invasion MRI-phenotypes in glioblastoma multiforme](https://www.ncbi.nlm.nih.gov/pubmed/21998659),*PLoS One*, 2011
-  * Gevaert et al., [Non-small cell lung cancer: identifying prognostic imaging biomarkers by leveraging public gene expression microarray data: methods and preliminary results](https://www.ncbi.nlm.nih.gov/pubmed/22723499),*Radiology*, 2012
-  * Aerts et al., [Decoding tumour phenotype by noninvasive imaging using a quantitative radiomics approach](https://www.nature.com/articles/ncomms5006),*Nature Communications*, 2014
-  *  et al., [](),**, 20
-  *  et al., [](),**, 20
+  * Wang et al., [Anatomical localization of isocitrate dehydrogenase 1 mutation: a voxel-based radiographic study of 146 low-grade gliomas](https://www.ncbi.nlm.nih.gov/pubmed/25318355), *European Journal of Neurology*, 2015
+  * Halpenny et al., [Are there imaging characteristics associated with lung adenocarcinomas harboring ALK rearrangements?](https://www.ncbi.nlm.nih.gov/pubmed/25312988), *Lung Cancer*, 2014
+  * Gevaert et al., [Glioblastoma multiforme: exploratory radiogenomic analysis by using quantitative image features](https://www.ncbi.nlm.nih.gov/pubmed/24827998), *Radiology*, 2014
+  * Nair et al., [NF- kappaB protein expression associates with (18)F-FDG PET tumor uptake in non-small cell lung cancer: a radiogenomics validation study to understand tumor metabolism](https://www.ncbi.nlm.nih.gov/pubmed/24355259), *Lung Cancer*, 2014
+  * Jamshidi et al., [Illuminating radiogenomic characteristics of glioblastoma multiforme through integration of MR imaging, messenger RNA expression, and DNA copy number variation](https://www.ncbi.nlm.nih.gov/pubmed/24056404), *Radiology*, 2014
+  * Karlo et al., [Radiogenomics of clear cell renal cell carcinoma: associations between CT imaging features and mutations](https://www.ncbi.nlm.nih.gov/pubmed/24029645), *Radiology*, 2014
+  * De Ruysscher et al., [Quantification of radiation-induced lung damage with CT scans: the possible benefit for radiogenomics](https://www.ncbi.nlm.nih.gov/pubmed/23957564), *Acta Oncologica*, 2013
+  * Zinn et al., [Radiogenomic mapping of edema/cellular invasion MRI-phenotypes in glioblastoma multiforme](https://www.ncbi.nlm.nih.gov/pubmed/21998659), *PLoS One*, 2011
+  * Gevaert et al., [Non-small cell lung cancer: identifying prognostic imaging biomarkers by leveraging public gene expression microarray data: methods and preliminary results](https://www.ncbi.nlm.nih.gov/pubmed/22723499), *Radiology*, 2012
+  * Aerts et al., [Decoding tumour phenotype by noninvasive imaging using a quantitative radiomics approach](https://www.nature.com/articles/ncomms5006), *Nature Communications*, 2014
+  * Kuo et al., [Radiogenomic analysis to identify imaging phenotypes associated with drug response gene expression programs in hepatocellular carcinoma](https://www.ncbi.nlm.nih.gov/pubmed/17609439), *Journal of Vascular and Interventional Radiology*, 2007
+  * Nair et al., [Prognostic PET 18F-FDG uptake imaging features are associated with major oncogenomic alterations in patients with resected non-small cell lung cancer](https://www.ncbi.nlm.nih.gov/pubmed/22710433), *Cancer Research*, 2012
+  * Segal et al., [Decoding global gene expression programs in liver cancer by noninvasive imaging](https://www.nature.com/articles/nbt1306), *Nature Biotechnology*, 2007
+  * Yamamoto et al., [Radiogenomic analysis of breast cancer using MRI: a preliminary study to define the landscape](https://www.ncbi.nlm.nih.gov/pubmed/22915408), *American Journal of Roentgenology*, 2012
+  * Yamamoto et al., [Breast cancer: radiogenomic biomarker reveals associations among dynamic contrast-enhanced MR imaging, long noncoding RNA, and metastasis](https://www.ncbi.nlm.nih.gov/pubmed/25734557), *Radiology*, 2015
+  * Barajas et al., [Glioblastoma multiforme regional genetic and cellular expression patterns: influence on anatomic and physiologic MR imaging](https://www.ncbi.nlm.nih.gov/pubmed/20093527), *Radiology*, 2010
+  * Diehn et al., [Identification of noninvasive imaging surrogates for brain tumor gene-expression modules](https://www.ncbi.nlm.nih.gov/pubmed/18362333), *PNAS*, 2008
+  * Pope et al., [Relationship between gene expression and enhancement in glioblastoma multiforme: exploratory DNA microarray analysis](https://www.ncbi.nlm.nih.gov/pubmed/18796682), *Radiology*, 2008
+  * Zinn et al., [A novel volume-age-KPS (VAK) glioblastoma classification identifies a prognostic cognate microRNA-gene signature](https://www.ncbi.nlm.nih.gov/pubmed/22870228), *PLoS One*, 2012
+  * Jamshidi et al., [The radiogenomic risk score: construction of a prognostic quantitative, noninvasive imagebased molecular assay for renal cell carcinoma](https://www.ncbi.nlm.nih.gov/pubmed/26402495), *Radiology*, 2015
+  * Colen et al., [NCI Workshop Report: clinical and computational requirements for correlating imaging phenotypes with genomics signatures](https://www.ncbi.nlm.nih.gov/pubmed/25389451), *Translational Oncology*, 2014
+  * Carlson et al., [Relationship between survival and edema in malignant gliomas: role of vascular endothelial growth factor and neuronal pentraxin 2](https://www.ncbi.nlm.nih.gov/pubmed/17473188), *Clinical Cancer Research*, 2007
+  * Colen et al., [TCGA Glioma Phenotype Research Group. Imaging genomic mapping of an invasive MRI phenotype predicts patient outcome and metabolic dysfunction: a TCGA glioma phenotype research group project](https://www.ncbi.nlm.nih.gov/pubmed/24889866), *BMC Medical Genomics*, 2014
+  * Jain et al., [Correlation of perfusion parameters with genes related to angiogenesis regulation in glioblastoma: a feasibility study](https://www.ncbi.nlm.nih.gov/pubmed/22422183), *American Journal of Neuroradiology*, 2012
+  * Naeini et al., [Identifying the mesenchymal molecular subtype of glioblastoma using quantitative volumetric analysis of anatomic magnetic resonance images](https://www.ncbi.nlm.nih.gov/pubmed/23444259), *Neuro-Oncology*, 2013
+  * Nicolasjilwan et al., [TCGA Glioma Phenotype Research Group. Addition of MR imaging features and genetic biomarkers strengthens glioblastoma survival prediction in TCGA patients](https://www.ncbi.nlm.nih.gov/pubmed/24997477), *Journal of Neuroradiology*, 2015
+  * Pope et al., [Non-invasive detection of 2-hydroxyglutarate and other metabolites in IDH1 mutant glioma patients using magnetic resonance spectroscopy](https://www.ncbi.nlm.nih.gov/pubmed/22015945), *Journal of Neuro-Oncology*, 2012
+  * Osborne et al., [18F-FDG PET of locally invasive breast cancer and association of estrogen receptor status with standardized uptake value: microarray and immunohistochemical analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4141648/), *Journal of Nuclear Medicine*, 2010
+  * Palaskas et al., [18F-fluorodeoxy-glucose positron emission tomography marks MYC-overexpressing human basal-like breast cancers](), *Cancer Research*, 2011
+  * Zhu et al., [Brain metastasis in children with stage 4 neuroblastoma after multidisciplinary treatment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4593360/), *Chinese Journal of Cancer*, 2015
+  * Miura et al., [Distinct clinicopathological phenotype of hepatocellular carcinoma with ethoxybenzylmagnetic resonance imaging hyperintensity: association with gene expression signature](https://www.ncbi.nlm.nih.gov/pubmed/26105803), *The American Journal of Surgery*, 2015
+  * Halle et al., [Hypoxiainduced gene expression in chemoradioresistant cervical cancer revealed by dynamic contrast-enhanced MRI](https://www.ncbi.nlm.nih.gov/pubmed/22890239), *Cancer Research*, 2012
+  *  et al., [](), **, 20
+  *  et al., [](), **, 20
+  *  et al., [](), **, 20
+  *  et al., [](), **, 20
+  *  et al., [](), **, 20
+  *  et al., [](), **, 20
+  *  et al., [](), **, 20
+  
 
 ## Datasets
 Datasets are perhaps the pre-requisites for any research studies in this area, where we need 1)large-scale imaging data, 2) paired with genotypic information. Here we review some rich publicly available datasets.
