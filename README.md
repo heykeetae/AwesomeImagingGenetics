@@ -101,13 +101,28 @@ The figure above illustrates the intuition of Imaging Genetics. We would like to
   * Ozkan et al., [CT Gray-Level Texture Analysis as a Quantitative Imaging Biomarker of Epidermal Growth Factor Receptor Mutation Status in Adenocarcinoma of the Lung](https://www.ncbi.nlm.nih.gov/pubmed/26496549), *American Journal of Roentgenology*, 2015
   * Yoon et al., [Decoding Tumor Phenotypes for ALK, ROS1, and RET Fusions in Lung Adenocarcinoma Using a Radiomics Approach](https://www.ncbi.nlm.nih.gov/pubmed/26469915), *Medicine (Baltimore)*, 2015
   *  et al., [](), **, 20
-  *  et al., [](), **, 20
 
 * Imaging Genomics (Radiogenomics, Imaging Genetics) - Machine Learning
   * Kickingereder et al., [Radiogenomics of glioblastoma: machine learning-based classification of molecular characteristics by using multiparametric and multiregional MR imaging features](https://pubs.rsna.org/doi/10.1148/radiol.2016161382), *Radiology*, 2016  
   * Macyszyn et al., [Imaging patterns predict patient survival and molecular subtype in glioblastoma via machine learning techniques](https://www.ncbi.nlm.nih.gov/pubmed/26188015), *Neuro-Oncology*, 2015
   * Pearlson et al., [An introductory review of parallel independent component analysis (p-ICA) and a guide to applying p-ICA to genetic data and imaging phenotypes to identify disease-associated biological pathways and systems in common complex disorders](https://www.ncbi.nlm.nih.gov/pubmed/26442095), *Frontiers in genetics*, 2015
-
+  * Eric et al., [Imaging Genetics Via Sparse Canonical Correlation Analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3892670/), * IEEE International Symposium on Biomedical Imaging*, 2013
+  * Le Floch et al., [ Significant correlation
+between a set of genetic polymorphisms and a functional brain network revealed by feature
+selection and sparse Partial Least Squares](https://www.ncbi.nlm.nih.gov/pubmed/22781162), *Neuroimage*, 2012
+  * Vounou et al., [Discovering genetic associations with high-dimensional neuroimaging phenotypes: A sparse reduced-rank regression approach](https://www.ncbi.nlm.nih.gov/pubmed/20624472), *Neuroimage*, 2010
+  * Chen et al., [Guided exploration of genomic risk for gray matter abnormalities in schizophrenia using parallel independent component analysis with reference](https://www.ncbi.nlm.nih.gov/pubmed/23727316), *Neuroimage*, 2013
+  * Hinrichs et al., [Predictive markers for AD in a multi-modality framework: an analysis of MCI progression in the ADNI population](https://www.ncbi.nlm.nih.gov/pubmed/21146621), *Neuroimage*, 2011
+  * Honghui et al., [A Hybrid Machine Learning Method for Fusing fMRI and Genetic Data: Combining both Improves Classification of Schizophrenia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2990459/), *Frontiers in Human Neuroscience*, 2010
+  * Arnedo et al., [Uncovering the hidden risk architecture of the schizophrenias: confirmation in three independent genome-wide association studies](https://www.ncbi.nlm.nih.gov/pubmed/25219520), *The American journal of
+psychiatry*, 2015
+  *  et al., [](), **, 20
+  *  et al., [](), **, 20
+  *  et al., [](), **, 20
+  *  et al., [](), **, 20
+  *  et al., [](), **, 20
+  *  et al., [](), **, 20
+  *  et al., [](), **, 20
 ## Datasets
 Datasets are perhaps the pre-requisites for any research studies in this area, where we need 1)large-scale imaging data, 2) paired with genotypic information. Here we review some rich publicly available datasets.
 
