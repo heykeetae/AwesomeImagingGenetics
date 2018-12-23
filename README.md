@@ -15,14 +15,13 @@ The figure above illustrates the intuition of Imaging Genetics. We would like to
 ## Paper list
 - This paper list is partially attributable to the following papers.
   * Lee et al., [Radiomics and imaging genomics in precision medicine](https://www.pfmjournal.org/journal/view.php?number=9), *Precision and Future Medicine*, 2017
-  * Bai et al., [Imaging genomics in cancer research: limitations
-and promises](https://www.ncbi.nlm.nih.gov/pubmed/26864054), *The British Journal of Radiology*, 2016
+  * Bai et al., [Imaging genomics in cancer research: limitations and promises](https://www.ncbi.nlm.nih.gov/pubmed/26864054), *The British Journal of Radiology*, 2016
+  * Bogdan et al., [Imaging Genetics and Genomics in Psychiatry: A Critical Review of Progress and Potential](https://www.ncbi.nlm.nih.gov/pubmed/28283186), *Biological Psychiatry*, 2017
 
-* Imaging Genomics (Radiogenomics, Imaging Genetics)
+* Imaging Genomics (Radiogenomics, Imaging Genetics) - Convention
   * Halpenny et al., [Radiogenomic evaluation of lung cancer: are there imaging characteristics associated with lung adenocarcinomas harboring BRAF mutations?](https://www.ncbi.nlm.nih.gov/pubmed/28012356), *Clinical Imaging*, 2017
   * Demerath et al., [Mesoscopic imaging of glioblastomas: Are diffusion, perfusion and spectroscopic measures influenced by the radiogenetic phenotype?](https://www.ncbi.nlm.nih.gov/pubmed/27864578), *The Neuroradiology Journal*, 2016
   * Wiestler et al., [Multiparametric MRI-based differentiation of WHO grade II/III glioma and WHO grade IV glioblastoma](https://www.ncbi.nlm.nih.gov/pubmed/27739434), *Scientific Reports*, 2016
-  * Kickingereder et al., [Radiogenomics of glioblastoma: machine learning-based classification of molecular characteristics by using multiparametric and multiregional MR imaging features](https://pubs.rsna.org/doi/10.1148/radiol.2016161382), *Radiology*, 2016
   * Heiland et al., [Molecular differences between cerebral blood volume and vessel size in glioblastoma multiforme](https://www.ncbi.nlm.nih.gov/pubmed/27613830), *Oncotarget*, 2016
   * Hu et al., [Radiogenomics to characterize regional genetic heterogeneity in glioblastoma](https://www.ncbi.nlm.nih.gov/pubmed/27502248), *Neuro-Oncology*, 201
   * Saha et al., [Interobserver variability in identification of breast tumors in MRI and its implications for prognostic biomarkers and radiogenomics](https://www.ncbi.nlm.nih.gov/pubmed/27487872), *Medical Physics*, 2016
@@ -85,7 +84,6 @@ and promises](https://www.ncbi.nlm.nih.gov/pubmed/26864054), *The British Journa
   * Miles et al., [Multifunctional imaging signature for V-KI-RAS2 Kirsten rat sarcoma viral oncogene homolog (KRAS) mutations in colorectal cancer](https://www.ncbi.nlm.nih.gov/pubmed/24516257), *Journal of Nuclear Medicine*, 2014
   * Ashraf et al., [Identification of intrinsic imaging phenotypes for breast cancer tumors: preliminary associations with gene expression profiles](https://www.ncbi.nlm.nih.gov/pubmed/24702725), *Radiology*, 2014
   * Li et al., [Pilot study demonstrating potential association between breast cancer image-based risk phenotypes and genomic biomarkers](https://www.ncbi.nlm.nih.gov/pubmed/24593735), *Medical Physics*, 2014
-  * Macyszyn et al., [Imaging patterns predict patient survival and molecular subtype in glioblastoma via machine learning techniques](https://www.ncbi.nlm.nih.gov/pubmed/26188015), *Neuro-Oncology*, 2015
   * Rizzo et al., [CT Radiogenomic Characterization of EGFR, K-RAS, and ALK Mutations in Non-Small Cell Lung Cancer](https://www.ncbi.nlm.nih.gov/pubmed/25956936), *European Radiology*, 2016
   * Izuishi et al., [Molecular mechanism underlying the detection of colorectal cancer by 18F-2-fluoro-2-deoxy-D-glucose positron emission tomography](https://www.ncbi.nlm.nih.gov/pubmed/22065316), *Journal of Gastrointestinal Surgery*, 2012
   * Lee et al., [Relationship Between 18F-Fluorodeoxyglucose Uptake and V-Ki-Ras2 Kirsten Rat Sarcoma Viral Oncogene Homolog Mutation in Colorectal Cancer Patients: Variability Depending on C-Reactive Protein Level](https://www.ncbi.nlm.nih.gov/pubmed/26735530), *Medicine (Baltimore)*, 2016
@@ -105,9 +103,9 @@ and promises](https://www.ncbi.nlm.nih.gov/pubmed/26864054), *The British Journa
   *  et al., [](), **, 20
   *  et al., [](), **, 20
 
-  
-  
-  
+* Imaging Genomics (Radiogenomics, Imaging Genetics) - Machine Learning
+  * Kickingereder et al., [Radiogenomics of glioblastoma: machine learning-based classification of molecular characteristics by using multiparametric and multiregional MR imaging features](https://pubs.rsna.org/doi/10.1148/radiol.2016161382), *Radiology*, 2016  
+  * Macyszyn et al., [Imaging patterns predict patient survival and molecular subtype in glioblastoma via machine learning techniques](https://www.ncbi.nlm.nih.gov/pubmed/26188015), *Neuro-Oncology*, 2015
 
 ## Datasets
 Datasets are perhaps the pre-requisites for any research studies in this area, where we need 1)large-scale imaging data, 2) paired with genotypic information. Here we review some rich publicly available datasets.
