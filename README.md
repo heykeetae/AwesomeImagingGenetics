@@ -100,7 +100,13 @@ The figure above illustrates the intuition of Imaging Genetics. We would like to
   * Plodkowski et al., [From genotype to phenotype: Are there imaging characteristics associated with lung adenocarcinomas harboring RET and ROS1 rearrangements?](https://www.ncbi.nlm.nih.gov/pubmed/26424208), *Lung Cancer*, 2015
   * Ozkan et al., [CT Gray-Level Texture Analysis as a Quantitative Imaging Biomarker of Epidermal Growth Factor Receptor Mutation Status in Adenocarcinoma of the Lung](https://www.ncbi.nlm.nih.gov/pubmed/26496549), *American Journal of Roentgenology*, 2015
   * Yoon et al., [Decoding Tumor Phenotypes for ALK, ROS1, and RET Fusions in Lung Adenocarcinoma Using a Radiomics Approach](https://www.ncbi.nlm.nih.gov/pubmed/26469915), *Medicine (Baltimore)*, 2015
+  * Adhikari et al., [Heritability estimates on resting state fMRI data using ENIGMA analysis pipeline](https://www.ncbi.nlm.nih.gov/pubmed/29218892), *Pacific Symposium on Biocomputing*, 2018
+  * Miller et al., [Codon bias among synonymous rare variants is associated with Alzheimer's disease imaging biomarker](https://www.ncbi.nlm.nih.gov/pubmed/29218897), *Pacific Symposium on Biocomputing*, 2018
+  * Srivastava et al., [Building trans-omics evidence: using imaging and 'omics' to characterize cancer profiles](https://www.ncbi.nlm.nih.gov/pubmed/29218898), *Pacific Symposium on Biocomputing*, 2018
   *  et al., [](), **, 20
+  *  et al., [](), **, 20
+  *  et al., [](), **, 20
+  
 
 * Imaging Genomics (Radiogenomics, Imaging Genetics) - Machine Learning
   * Kickingereder et al., [Radiogenomics of glioblastoma: machine learning-based classification of molecular characteristics by using multiparametric and multiregional MR imaging features](https://pubs.rsna.org/doi/10.1148/radiol.2016161382), *Radiology*, 2016  
@@ -119,9 +125,10 @@ psychiatry*, 2015
   * Coudray et al., [Classification and mutation prediction from non–small cell lung cancer histopathology images using deep learning](https://www.nature.com/articles/s41591-018-0177-5), *Nature Medicine*, 2018
   * Borkowski et al., [Apple Machine Learning Algorithms Successfully Detect Colon Cancer but Fail to Predict KRAS Mutation Status](https://arxiv.org/abs/1812.04660), *Arxiv Pre-print*, 2018
   * Chidester et al., [Discriminative bag-of-cells for imaging-genomics](https://www.ncbi.nlm.nih.gov/pubmed/29218893), *Pacific Symposium on Biocomputing*, 2018
-  *  et al., [](), **, 20
-  *  et al., [](), **, 20
-  *  et al., [](), **, 20
+  * Han and Kamdar., [MRI to MGMT: predicting methylation status in glioblastoma patients using
+convolutional recurrent neural networks](https://www.ncbi.nlm.nih.gov/pubmed/29218894), *Pacific Symposium on Biocomputing*, 2018
+  * Huang et al., [Deep Integrative Analysis for Survival Prediction](https://www.ncbi.nlm.nih.gov/pubmed/29218895), *Pacific Symposium on Biocomputing*, 2018
+  * Huo et al., [Genotype-phenotype association study via new multi-task learning model](https://www.ncbi.nlm.nih.gov/pubmed/29218896), *Pacific Symposium on Biocomputing*, 2018
 ## Datasets
 Datasets are perhaps the pre-requisites for any research studies in this area, where we need 1)large-scale imaging data, 2) paired with genotypic information. Here we review some rich publicly available datasets.
 
