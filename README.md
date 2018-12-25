@@ -1,8 +1,12 @@
 # Awesome Imaging Genetics
+This repository consists of imaging genetics papers and publicly available datasets. A special focus will be on imaging genetics approaches based on machine learning.
+
+## Imaging Genetics
+
 Recent advances in artificial intelligence (AI) has been largely reflected in radiomics, an academic area connecting the high-throughput information of images (or imaging phenotype) with clinical outcomes, such as tumor detection, secmentation or disease stages. A conventional research pipelines in radionomics were 1) data and label processing, 2) (hand-crafted)feature selection, and 3) correlation analysis between the selected features and disease biomarkers. The 2) feature selection and the 3) correlation analysis have been integrated via AI techniques, most of them employing the convolutional neural networks as the training backbone. 
 
 Imaging genomics can be regarded as an extension to radiomics, where we attempt to predict and trace genotypic information from medical imaging phenotype, rather than tumors and diseases. While tumors and disease patterns might be quite obvious in the human eyes, genotypic information or protein expression is harder to trace from images, where the AI techniques come into play. This is an interesting research area, which is inherently interdisciplinary at the intersection of biology, biophysics, medical imaging, computer science and engineering, and perhaps more areas.      
-## Imaging Genetics
+
 Imaging Genetics, i.e., Imaging Genomics or Radiogenomics, is a rapidly evolving field connecting the cellular genomics and medical image analysis. In this document, the exact name of the research area is interchangeably referred to any one of in the three different names, until it has a standardized name agreed by scholars. It primarily concerns tracking genetic variations from the imaging phenotype. Driven by recent advances in machine learning and active application of the algorithm, a host of novel research ideas have been brought into fruition. To highlight those efforts, the long-term goal of this repository is to list relevant research papers and summarize available public datasets, with a focus on machine learning approaches.  
 <p align="center"><img width="60%" src="images/conceptual_drawing.png" /></p>
 The figure above illustrates the intuition of Imaging Genetics. We would like to trace genetic information underlying the patterns (or phenotype) found on medical images! (Don't be misguided, I do not claim that we can trace all the genetic mutations in a colorectal tissue as in the feagure, the figure is for illustrative purpose only.) 
