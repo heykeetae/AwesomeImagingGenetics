@@ -108,7 +108,7 @@ The figure above illustrates the intuition of Imaging Genetics. We would like to
   * Miller et al., [Codon bias among synonymous rare variants is associated with Alzheimer's disease imaging biomarker](https://www.ncbi.nlm.nih.gov/pubmed/29218897), *Pacific Symposium on Biocomputing*, 2018
   * Srivastava et al., [Building trans-omics evidence: using imaging and 'omics' to characterize cancer profiles](https://www.ncbi.nlm.nih.gov/pubmed/29218898), *Pacific Symposium on Biocomputing*, 2018
  
-  *  et al., [](), **, 20
+  * Subramanian et al., [Integration of Spatial Distribution in Imaging-Genetics](https://link.springer.com/chapter/10.1007/978-3-030-00934-2_28), *MICCAI*, 2018
   *  et al., [](), **, 20
   
 
