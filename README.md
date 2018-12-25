@@ -107,7 +107,7 @@ The figure above illustrates the intuition of Imaging Genetics. We would like to
   * Adhikari et al., [Heritability estimates on resting state fMRI data using ENIGMA analysis pipeline](https://www.ncbi.nlm.nih.gov/pubmed/29218892), *Pacific Symposium on Biocomputing*, 2018
   * Miller et al., [Codon bias among synonymous rare variants is associated with Alzheimer's disease imaging biomarker](https://www.ncbi.nlm.nih.gov/pubmed/29218897), *Pacific Symposium on Biocomputing*, 2018
   * Srivastava et al., [Building trans-omics evidence: using imaging and 'omics' to characterize cancer profiles](https://www.ncbi.nlm.nih.gov/pubmed/29218898), *Pacific Symposium on Biocomputing*, 2018
-  *  et al., [](), **, 20
+ 
   *  et al., [](), **, 20
   *  et al., [](), **, 20
   
@@ -133,6 +133,8 @@ psychiatry*, 2015
 convolutional recurrent neural networks](https://www.ncbi.nlm.nih.gov/pubmed/29218894), *Pacific Symposium on Biocomputing*, 2018
   * Huang et al., [Deep Integrative Analysis for Survival Prediction](https://www.ncbi.nlm.nih.gov/pubmed/29218895), *Pacific Symposium on Biocomputing*, 2018
   * Huo et al., [Genotype-phenotype association study via new multi-task learning model](https://www.ncbi.nlm.nih.gov/pubmed/29218896), *Pacific Symposium on Biocomputing*, 2018
+  * Wang et al., [Quantitative trait loci identification for brain endophenotypes via new additive model with random networks](https://academic.oup.com/bioinformatics/article/34/17/i866/5093249), *Bioinformatics*, 2018
+  
 ## Datasets
 Datasets are perhaps the pre-requisites for any research studies in this area, where we need 1)large-scale imaging data, 2) paired with genotypic information. Here we review some rich publicly available datasets.
 
